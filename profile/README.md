@@ -1,4 +1,4 @@
-## Atomic-Media-Studio (AMS)
+## atomic-media-studio (AMS)
 
 Main `atomic-media-studio` organisation page.
 

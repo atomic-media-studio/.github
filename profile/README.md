@@ -1,6 +1,8 @@
-## atomic-media-studio (AMS)
+## atomic-media-studio 🚀
 
 Main `atomic-media-studio` organisation page.
+
+A set of cross-platform software systems for the media industry.
 
 <!--
 
